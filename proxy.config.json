@@ -1,0 +1,7 @@
+// {
+// 	"/api/*":{
+// 		"target": "http://api-crud-laravel.test",
+// 		"secure": false,
+// 		"changeOrigin": true
+// 	}
+// }
